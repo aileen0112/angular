@@ -1,0 +1,12 @@
+{
+  "name": "ng_imooc",
+  "version": "1.0.0",
+  "description": "angular learning from imooc",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "aileenhuang",
+  "license": "ISC"
+}
